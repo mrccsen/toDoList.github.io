@@ -1,0 +1,37 @@
+
+#div1{
+    margin-bottom: 0;
+    text-align: center;
+}
+#maindiv{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: orange;
+}
+#h2div{
+    color: white;
+    margin-top: 20px;
+    font-family: cursive;
+    text-align: center;
+}
+#div2{
+    display: flex;
+    justify-content: center;
+}
+#div3{
+    display: flex;
+    justify-content: center;
+}
+#input{
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 800px;
+    height: 40px;
+}
+#savebtn{
+    margin-bottom: 5px;
+    width: 100px;
+}
+#img{
+    background-color: white;
+}
